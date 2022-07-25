@@ -1,0 +1,16 @@
+body {background: rgb(214, 127, 12)}
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+h1 {color: #88f18b;}
+
+ul {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    color: #88CCF1;
+  }
